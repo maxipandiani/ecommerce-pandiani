@@ -11,3 +11,31 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.estilo {
+
+          display: flex;
+          background-color: aquamarine;          
+
+
+}
+
+.estilo li {
+
+        display: inline;
+        margin: 1em; 
+        
+
+
+}
+
+
+.estilo h1 {
+
+  color: rgb(5, 9, 253) ;
+  margin-left: 2em;
+
+
+
+}
+
