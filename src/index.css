@@ -7,6 +7,18 @@
   -moz-osx-font-smoothing: grayscale;
 } */
 
+.estilo a {
+
+      margin-left: 5em;
+      color: cornsilk;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+      font-size: xx-large;
+     margin-top: 4em;
+
+     
+
+}
+
 .estilo {
   display: flex;
   background-color: rgb(1, 102, 68);
@@ -15,15 +27,18 @@
 .estilo li {
   display: inline;
   margin: 3em;
-  font-size: x-large;
-  color: rgb(255, 255, 255);
-  font-family: monospace;
+  margin-top: 4em; 
+  
+  
 }
 
 .estilo h1 {
+  
   color: rgb(255, 255, 255);
   margin-left: 2em;
   font-style: oblique;
-  font-size: xx-large;
+  font-size: xxx-large;
   font-family: fantasy;
 }
+
+

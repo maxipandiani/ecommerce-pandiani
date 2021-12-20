@@ -2,8 +2,9 @@ import React from "react";
 
 const Barra = () => {
   return (
-    <div className='estilo'>
+    <div className="estilo">
       <h1>OrdeNati</h1>
+
       <nav>
         <ul>
           <li>
@@ -18,7 +19,7 @@ const Barra = () => {
         </ul>
       </nav>
     </div>
-  )
-}
+  );
+};
 
-export default Barra
+export default Barra;
