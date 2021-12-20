@@ -3,7 +3,7 @@ import React from "react";
 const Barra = () => {
   return (
     <div className='estilo'>
-      <h1>Ordenati</h1>
+      <h1>OrdeNati</h1>
       <nav>
         <ul>
           <li>
