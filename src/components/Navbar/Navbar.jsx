@@ -1,6 +1,6 @@
 import React from "react";
 
-const Barra = () => {
+const Navbar = () => {
   return (
     <div className="estilo">
       <h1>OrdeNati</h1>
@@ -22,4 +22,4 @@ const Barra = () => {
   );
 };
 
-export default Barra;
+export default Navbar;

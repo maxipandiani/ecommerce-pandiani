@@ -1,12 +1,19 @@
 
 import logo from './logo.svg';
 import './App.css';
-import Barra from './components/Navbar';
-function App() {
-  return (
+import Navbar from './components/Navbar/Navbar';
+
+import 'bootstrap/dist/css/bootstrap.min.css';
+import NavbarBs from './components/Navbar/NavbarBs';
+import ItemListContainer from './components/ItemListContainer/ItemListContainer';
+
+  function App() {
+  
+    return (
 
     <div>
-      <Barra /> 
+      <NavbarBs /> 
+      <ItemListContainer  /> 
 
 
 
