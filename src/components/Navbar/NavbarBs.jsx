@@ -14,8 +14,8 @@ function NavbarBs() {
     <Navbar.Brand href="#home">OrdeNati</Navbar.Brand>
     <Nav className="me-auto">
       <Nav.Link href="#home">Home</Nav.Link>
-      <Nav.Link href="#features">Productos</Nav.Link>
-      <Nav.Link href="#pricing">Contacto</Nav.Link>
+      <Nav.Link href="#productos">Productos</Nav.Link>
+      <Nav.Link href="#contacto">Contacto</Nav.Link>
       
         </Nav>
         <a href="  "><Cartwidget/></a>
