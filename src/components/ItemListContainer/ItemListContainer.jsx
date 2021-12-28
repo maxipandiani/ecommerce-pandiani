@@ -1,13 +1,12 @@
 import React from 'react'
 
-function ItemListContainer() {
+function ItemListContainer({greetings}) {
     return (
         <div>
-           <a>Bienvenidos a mi tienda!</a> 
+           <a>{greetings}</a> 
         </div>
     )
 }
-
 
 
 
