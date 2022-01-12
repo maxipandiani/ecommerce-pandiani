@@ -13,7 +13,7 @@ function ItemCount({min, maximo}) {
    }
    const decremento = () => { 
 
-    counter > min ? setCounter(prev => prev -1) : alert("El stock no puede ser menor a cero")
+    counter > min ? setCounter(prev => prev -1) : alert("El stock no puede ser menor a 1")
     
    }
 

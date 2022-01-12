@@ -16,7 +16,7 @@ function Item({title, price, picture}) {
             {price}
           </Card.Text>
           <div className="contador">
-          <ItemCount min={ 0 } maximo={5}  />
+          <ItemCount min={ 1 } maximo={5}  />
           <Button variant="primary">Agregar al Carrito</Button>
           </div>
         </Card.Body>
